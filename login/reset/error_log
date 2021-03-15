@@ -1,0 +1,21 @@
+[05-Aug-2019 00:00:32 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
+[05-Aug-2019 00:02:53 UTC] PHP Notice:  Undefined index: UID in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 8
+[05-Aug-2019 00:02:53 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 25
+[05-Aug-2019 00:08:31 UTC] PHP Notice:  Undefined variable: new_password_err in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 97
+[05-Aug-2019 00:08:35 UTC] PHP Notice:  Undefined index: selector in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 7
+[05-Aug-2019 00:08:35 UTC] PHP Notice:  Undefined index: validator in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 8
+[05-Aug-2019 00:10:15 UTC] PHP Notice:  Undefined variable: new_password_err in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 97
+[05-Aug-2019 00:16:22 UTC] PHP Notice:  Undefined index: selector in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 7
+[05-Aug-2019 00:16:22 UTC] PHP Notice:  Undefined index: validator in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 8
+[05-Aug-2019 00:16:53 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
+[05-Aug-2019 00:18:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 63
+[05-Aug-2019 00:44:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/w5abcwfcaidj/public_html/login/reset/resetGather.php on line 3
+[05-Aug-2019 00:44:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/w5abcwfcaidj/public_html/login/reset/resetGather.php on line 3
+[05-Aug-2019 00:44:37 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
+[05-Aug-2019 00:46:18 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
+[05-Aug-2019 00:47:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/w5abcwfcaidj/public_html/login/reset/resetGather.php on line 3
+[05-Aug-2019 00:47:13 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
+[05-Aug-2019 00:48:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/w5abcwfcaidj/public_html/login/reset/resetProcess.php on line 63
+[05-Aug-2019 00:50:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/w5abcwfcaidj/public_html/login/reset/resetGather.php on line 3
+[05-Aug-2019 00:50:25 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
+[05-Aug-2019 00:51:40 UTC] PHP Warning:  Use of undefined constant ABS_URL - assumed 'ABS_URL' (this will throw an Error in a future version of PHP) in /home/w5abcwfcaidj/public_html/login/reset/resetToken.php on line 22
